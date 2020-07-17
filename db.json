@@ -1,7 +1,7 @@
 {
     "projects": [
     { 
-   "photo": "https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80", 
+   "photo": "https://images.unsplash.com/photo-1472066719480-ecc7314ed065?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80", 
    "Title": "Поможем дедушке построить пекарню", 
    "Description": "Диана — единственная и долгожданная! У нее сложный порок сердца и ей нужно провести еще одну операцию Фонтена", 
    "Sum": [
@@ -15,7 +15,7 @@
    ]
     }, 
     { 
-   "photo": "https://images.unsplash.com/photo-1502881349576-47c31b35bf56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80", 
+   "photo": "https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80", 
    "Title": "Сбор средств для постойки школ в Индонезии", 
    "Description": "Диана — единственная и долгожданная! У нее сложный порок сердца и ей нужно провести еще одну операцию Фонтена", 
    "Sum": [
